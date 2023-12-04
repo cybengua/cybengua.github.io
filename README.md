@@ -19,7 +19,7 @@ This video shows **Koenigsegg Jesko Absolut in action!**
 
 Although the Jesko Absolut and Bolide's multiple-seven-figure price tags would suggest that reaching 300 mph or more is simple, achieving these astounding top speeds requires a lot of effort. Apart from the fact that the cars must go on miles of glassy-smooth pavement, they also need to be incredibly aerodynamic and able to suck in large amounts of air, which results in massive fuel consumption at those speeds. In order to keep the car on the ground, engineers must design it so that it can slice through the air with ease and produce a lot of downforce.
 
-![Facade](https://www.researchgate.net/publication/348837561/figure/fig3/AS:985328110292993@1611931936267/Koenigsegg-Jesko-Absolut-https-wwwkoenigseggcom-car-jesko-absolut.png)
+![Facade](https://i.redd.it/q6mdo54yphk41.jpg)
 
 Almost every component of the automobile is put under stress when hundreds of pounds of downforce are added, particularly the tires and suspension. The car's temporary weight must be supported by the dampers in order to maintain tire contact with the pavement. Even little flaws in the road surface become more noticeable and forceful at 300 mph, therefore the car needs to be able to handle this.
 
