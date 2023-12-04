@@ -1,5 +1,5 @@
-# Koenigsegg Jesko Absolut
-## The Fastest Car in the World
+# The Fastest Car in the World - Koenigsegg Jesko Absolut
+**By Cris Yuri N. Bengua**
 
 ![Facade](https://media.autoexpress.co.uk/image/private/s--78Lp2mtA--/v1650904349/evo/2022/04/Koenigsegg%20Jesko%20update%20April%202022-6.jpg)
 
@@ -25,6 +25,10 @@ Almost every component of the automobile is put under stress when hundreds of po
 
 Tires receive an especially hard hammering during high-speed runs, as the downforce compresses the sidewalls. They are also subjected to high temperatures as a result of the friction caused by rubber clawing against the pavement at 300 mph. Tires rotate thousands of times per minute at that speed, therefore they must be strong enough to withstand the intense rotational forces. Finally, high speeds have an odd effect on the weights of car components, such as tire pressure monitoring sensors, which can weigh many times their typical weight when rotating at 300 mph, causing wheel imbalances and other problems.
 
+![Facade](https://mainwebstorage.blob.core.windows.net/mediacontainers/styles/1920x1400/azure/2022-04/Koenigsegg%20Jesko%20Absolut%20-%20Rear%20Stabilizer%20Fins_1.JPG?h=c8c06d6e&itok=sW8Uvr3j)
+
+## Jesko Absolut - Technical Specifications
+[Koenigsegg Jesko Absolut - Technical Specifications](https://www.koenigsegg.com/technical-specifications-jesko-absolut)
 # This video shows **Koenigsegg Jesko Absolut in action!**
 
 
