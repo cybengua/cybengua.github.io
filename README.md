@@ -15,6 +15,8 @@ The Jesko Absolut boasts a nine-speed transmission that shifts so fast it's near
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWFzETOZJY4?si=ISC3ZuOXSZP--ASF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+The Koenigsegg Jesko is a limited edition mid-engine sports car manufactured by the Swedish automaker Koenigsegg. The automobile was unveiled at the 2019 Geneva Motor event and sold out before the event concluded. It replaces the Agera. The name Jesko is a tribute to the firm founder's father, Jesko von Koenigsegg. The car comes in two variants: "Absolut" (peak speed) and "Attack" (track-focused).
+
 # What goes into making an automobile that can go at speeds greater than 300 mph, you ask?
 
 Although the Jesko Absolut and Bolide's multiple-seven-figure price tags would suggest that reaching 300 mph or more is simple, achieving these astounding top speeds requires a lot of effort. Apart from the fact that the cars must go on miles of glassy-smooth pavement, they also need to be incredibly aerodynamic and able to suck in large amounts of air, which results in massive fuel consumption at those speeds. In order to keep the car on the ground, engineers must design it so that it can slice through the air with ease and produce a lot of downforce.
